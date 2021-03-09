@@ -1,6 +1,6 @@
 # CODES
 Compilation of multiple codes used in bioinformatics
 
-FOLDERS
-  Data folder
-  Code folder
+FOLDERS\n
+  Data folder\n
+  Code folder\n
